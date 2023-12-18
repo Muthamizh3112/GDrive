@@ -1,0 +1,53 @@
+# DriveLink Beautifier
+
+## Description
+
+DriveLink Beautifier is a web application designed to create direct links for Google Drive images for use in websites. It takes a Google Drive link as input and generates a beautified link that can be used for embedding images.
+
+## Features
+
+- **Input Validation:** Validates the entered Google Drive link to ensure it's valid.
+- **Beautified Link Generation:** Converts the Google Drive link into a beautified direct link for embedding images.
+- **Clipboard Copy:** Allows users to easily copy the generated link to the clipboard.
+
+## Getting Started
+
+1. Open the [DriveLink Beautifier](#) web application in your web browser.
+2. Enter your Google Drive link in the provided input field.
+3. Click the "Beautify Link" button to generate the beautified link.
+4. Copy the generated link using the "Copy Link" button.
+
+## Usage
+
+### Input
+- Paste your Google Drive link in the input field.
+
+### Output
+- The application generates a beautified direct link that can be used for embedding images in websites.
+
+## Demo
+
+[https://muthamizh3112.github.io/GDrive/](#) - Provide a link to a live demo of your web application.
+
+## Project Structure
+
+- `index.html`: The main HTML file containing the structure and layout of the web application.
+- `style.css`: The stylesheet file for styling the web application.
+- `script.js`: The JavaScript file containing the logic for link beautification and clipboard copy.
+- `LICENSE`: Include the license under which your project is distributed.
+
+## Contributing
+
+If you'd like to contribute to this project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+
+## Contact
+
+For questions or feedback, feel free to contact the project creator:
+
+- **Muthamizhselvan**
+  - Email: your.email@example.com
+  - Instagram: [@muthamizh_31](https://www.instagram.com/muthamizh_31/)
+
+## Acknowledgments
+
+- AOS Library: [AOS - Animate on Scroll Library](https://github.com/michalsnik/aos)
